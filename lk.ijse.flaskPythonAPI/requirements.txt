@@ -1,0 +1,4 @@
+# Python dependencies
+Flask==2.0.3
+flask-cors==3.0.10
+mysql-connector-python==8.0.27
