@@ -1,0 +1,63 @@
+### Python ###
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+wheels/
+*.egg-info/
+.installed.cfg
+*.so
+*.DS_Store
+
+### Virtualenv ###
+venv/
+ENV/
+env/
+.venv/
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+### Flask ###
+instance/
+*.db
+*.sqlite
+*.sqlite3
+migrations/
+
+### Logs ###
+*.log
+*.out
+*.err
+
+### Unit test / coverage ###
+.tox/
+.cache
+.coverage
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+
+### IDEs ###
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+*.ipr
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### PyCharm ###
+/.idea/
+*.idea/
